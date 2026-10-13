@@ -1,0 +1,12 @@
+namespace GuvenlikKilidi;
+
+// ====================== AYARLAR ======================
+// Bu dosyayı "Ayar.cs" adıyla kopyala ve değerleri kendine göre değiştir.
+// (EXE_OLUSTUR.bat, Ayar.cs yoksa bunu otomatik kopyalar.)
+static class Ayar
+{
+    public const string Pin = "0000";                         // SABİT PIN - değiştirmek için burayı düzenle, yeniden derle
+    public const string NtfyKonu = "kilit-BURAYI-DEGISTIR";   // Telefondaki ntfy uygulamasında aynı konuya abone ol (tahmin edilemez bir ad seç)
+    public const bool AlarmHemenBaslasin = false;             // true: kilit açılır açılmaz öter
+    public const int SilahlanmaSaniye = 5;                    // Kilitten sonra bu süre geçince hareket algılanır
+}

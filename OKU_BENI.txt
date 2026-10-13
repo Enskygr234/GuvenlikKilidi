@@ -1,0 +1,13 @@
+GUVENLIK KILIDI - KURULUM
+
+PC:
+1) Ayar.ornek.txt dosyasini Ayar.cs adiyla kopyala, Pin ve NtfyKonu degerlerini degistir.
+2) EXE_OLUSTUR.bat dosyasina cift tikla.
+3) EXE\GuvenlikKilidi.exe olusur. Calistirinca ekran kilitlenir.
+
+TELEFON:
+1) Google Play / App Store'dan "ntfy" uygulamasini indir.
+2) + tusuna bas, Ayar.cs'teki NtfyKonu adini gir, abone ol.
+3) Test: python telefon_test.py
+
+NOT: Ctrl+Alt+Del Windows tarafindan engellenemez. Ilk testte PIN'i unutma.

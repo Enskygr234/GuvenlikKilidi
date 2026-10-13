@@ -1,0 +1,11 @@
+# Derleme çıktıları
+bin/
+obj/
+EXE/
+
+# Kişisel ayarlar (gerçek PIN ve ntfy konusu)
+Ayar.cs
+
+# IDE
+.vs/
+*.user
