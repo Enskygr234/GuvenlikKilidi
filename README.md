@@ -60,3 +60,7 @@ Tüm ayarlar `Ayar.cs` içinde; değiştirdikten sonra yeniden derlemek gerekir.
 | `Ayar.ornek.txt` | Ayar şablonu (`Ayar.cs` olarak kopyalanır) |
 | `EXE_OLUSTUR.bat` | Tek dosyalık, kendi kendine yeten EXE üretir |
 | `telefon_test.py` | Telefon bildirimini test eder |
+
+## Lisans
+
+[MIT](LICENSE)
