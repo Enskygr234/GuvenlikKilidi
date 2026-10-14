@@ -1,3 +1,13 @@
+<div align="center">
+
+![Güvenlik Kilidi](docs/afis.svg)
+
+[![.NET 8](https://img.shields.io/badge/.NET-8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download/dotnet/8.0)
+[![Windows](https://img.shields.io/badge/Windows-10_/_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#kurulum)
+[![Lisans](https://img.shields.io/badge/lisans-MIT-e63946?style=for-the-badge)](LICENSE)
+
+</div>
+
 # 🔒 Güvenlik Kilidi
 
 Windows için tam ekran, PIN korumalı kilit ekranı. Bilgisayarın başından kalktığında ekranı kilitler; biri dokunursa alarm çalar ve telefonuna bildirim gönderir.
