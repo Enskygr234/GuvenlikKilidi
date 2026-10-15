@@ -74,3 +74,19 @@ Tüm ayarlar `Ayar.cs` içinde; değiştirdikten sonra yeniden derlemek gerekir.
 ## Lisans
 
 [MIT](LICENSE)
+
+<!-- ENS:ALT -->
+---
+
+<div align="center">
+
+**❄️ ENS Developer'ın diğer projeleri**
+
+🖥️ Windows: [Buz Arşiv](https://github.com/Enskygr234/buz-arsiv) · [Ayaz Launcher](https://github.com/Enskygr234/Ayaz-launcher) · [Masaüstü Kar](https://github.com/Enskygr234/masaustu-kar) · [Klavye Ayazı](https://github.com/Enskygr234/klavye-ayazi) · [ayaz](https://github.com/Enskygr234/ayaz)
+
+[🌐 Bütün projeler](https://enskygr234.github.io/ensdewloper.github.io/) · [👤 GitHub profilim](https://github.com/Enskygr234)
+
+<sub>Kış gelir, kod yazılır.</sub>
+
+</div>
+<!-- /ENS:ALT -->
